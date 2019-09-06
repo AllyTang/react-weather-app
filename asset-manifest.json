@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-recipe-app/static/js/main.fdca10a5.chunk.js",
+    "main.js.map": "/react-recipe-app/static/js/main.fdca10a5.chunk.js.map",
+    "runtime~main.js": "/react-recipe-app/static/js/runtime~main.ccc918fb.js",
+    "runtime~main.js.map": "/react-recipe-app/static/js/runtime~main.ccc918fb.js.map",
+    "static/css/2.266e55a5.chunk.css": "/react-recipe-app/static/css/2.266e55a5.chunk.css",
+    "static/js/2.67a5efff.chunk.js": "/react-recipe-app/static/js/2.67a5efff.chunk.js",
+    "static/js/2.67a5efff.chunk.js.map": "/react-recipe-app/static/js/2.67a5efff.chunk.js.map",
+    "index.html": "/react-recipe-app/index.html",
+    "precache-manifest.15e410b54605e0f17b96ce07055940a3.js": "/react-recipe-app/precache-manifest.15e410b54605e0f17b96ce07055940a3.js",
+    "service-worker.js": "/react-recipe-app/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/react-recipe-app/static/css/2.266e55a5.chunk.css.map",
+    "static/media/bg.jpg": "/react-recipe-app/static/media/bg.b6796c73.jpg",
+    "static/media/headerPig.jpg": "/react-recipe-app/static/media/headerPig.305eba92.jpg"
+  }
+}
